@@ -1,0 +1,23 @@
+O B G_top
+R W W
+B G O
+
+W R G_front
+B O Y
+R Y B
+
+Y W O_Left
+W B Y
+G Y B
+
+W O R_right
+R G B
+Y O G
+
+W O R_bottom
+G Y G
+Y R Y
+
+O B R_back
+G R W
+B O W
